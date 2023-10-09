@@ -6,7 +6,7 @@
 
 // Data
 const account1 = {
-  owner: 'Jonas Schmedtmann',
+  owner: 'Anuragh Ragidimilli',
   movements: [200, 450, -400, 3000, -650, -130, 70, 1300],
   movementsDates: [
     '2019-11-18T21:31:17.178Z',
@@ -25,7 +25,7 @@ const account1 = {
 };
 
 const account2 = {
-  owner: 'Jessica Davis',
+  owner: 'Akhila Valluru',
   movements: [5000, 3400, -150, -790, -3210, -1000, 8500, -30],
   movementsDates: [
     '2019-11-01T13:15:33.035Z',
